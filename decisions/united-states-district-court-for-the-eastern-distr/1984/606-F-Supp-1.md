@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the Eastern District of Wisconsin"
+docket: "Civ. A. No. 84-C-53"
+decided: "1984-08-29"
+citations: ["606 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAKESHORE DISTRIBUTING CO., INC., Plaintiff, v. H. SCHMITT SOHNE, INC., Defendant."]
+source_url: "https://static.case.law/f-supp/606/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3758858
+cites_cases: ["105 Wis.2d 17", "44 Wis.2d 404", "545 F.2d 1096"]
+---
+
+# Lakeshore Distributing Co. v. H. Schmitt Sohne, Inc.
+
+## Majority (REYNOLDS, Chief Judge.)
+
+DECISION AND ORDER
+REYNOLDS, Chief Judge.
+In this diversity action under the Wisconsin Fair Dealership Law, Wis.Stats. § 135.-01 et seq., the plaintiff has moved for a preliminary injunction. The motion is fully briefed with supporting documentation and ready for decision. The following constitutes the Court’s findings of fact and conclusions of law pursuant to Rule 52(a) of the Federal Rules of Civil Procedure.
+The plaintiff, Lakeshore Distributing Co., Inc., (Lakeshore) contends its exclusive dealership for defendant importer’s German wines in Racine, Walworth and Kenosha counties was terminated without the notice required by Wis.Stats. § 135.04. Lakeshore seeks to bar the defendant, H. Schmitt Sohne, Inc., (HSS) from terminal ing its dealership or substantially changing the competitive circumstances of that dealership by appointing another distributor in Lakeshore’s territory. The motion for a preliminary injunction will not be granted.
+The prerequisites for issuance of a preliminary injunction are set forth in Fox Valley Harvestore, Inc. v. A.O. Smith Harvestore Products, Inc., 545 F.2d 1096, 1097 (7th Cir.1976):
+(1) the plaintiffs have no adequate remedy at law and will be irreparably harmed if the injunction does not issue; (2) the threatened injury to the plaintiffs outweighs the threatened harm the injunction may inflict on the defendant; (3) the plaintiffs have at least a reasonable likelihood of success on the merits; and, (4) the granting of a preliminary injunction will not disserve the public interest.
+A preliminary injunction is an extraordinary remedy and the plaintiff has the burden of establishing his entitlement on each of the above elements.
+Lakeshore has no written contract to establish its dealership with HSS. Instead, it relies on an oral agreement with Donald Kosmicki granting an exclusive dealership in Racine, Walworth and Kenosha counties beginning in late March of 1983. As evidence of this agreement, Lakeshore relies on an affidavit by Irv Harris, Kosmicki’s assistant, and two orders for HSS wines and promotional material placed with and filled by Harris and Kosmicki. As evidence of Kosmicki’s authority to grant the dealership, Lakeshore presents a letter from HSS to Kosmicki, dated November 4, 1980, which states in part: “2. Your responsibility for the whole State of Wisconsin is to establish wholesalers only.”
+HSS acknowledges that Kosmicki was its Wisconsin broker at this time, but denies he had the authority to establish dealerships without the prior approval of HSS. As a principal in Eastbrook Wines, Kosmicki was granted an exclusive dealership in Milwaukee, Racine, Kenosha and Walworth counties in addition to his position as broker for HSS. HSS contends that Kosmicki filled Lakeshore’s orders from its own stock, and emphasizes that the first order is dated February 4, 1983, nearly two months before the alleged dealership was granted. When Eastbrook Wines encountered financial difficulty in mid-1983, HSS terminated its relationship with Kosmicki and Eastbrook and appointed another wholesaler to take over Eastbrook’s territory. It is this appointment that forms the basis for Lakeshore’s claim.
+Wisconsin’s Fair Dealership Law defines dealership to include “a contract or agreement, either express or implied, whether oral or written ...” Wis.Stats. § 135.02(2). Assuming it was reasonable for Lakeshore to rely on the November 4, 1980 letter establishing Kosmicki’s authority, the lack of a written agreement is not fatal to Lakeshore’s claim. See Everlite Mfg. Co. v. Grand Valley M. & T. Co., 44 Wis.2d 404, 171 N.W.2d 188 (1969). There exists, however, no course of dealing between the parties from which the terms of any oral agreement can be implied. In these circumstances there is nothing to distinguish the alleged dealership agreement from a series of discreet sales transactions.
+In Foerster, Inc. v. Atlas Metal Parts Co., 105 Wis.2d 17, 313 N.W.2d 60 (1981), the Wisconsin Supreme Court discussed the intent behind the Fair Dealership Law and its relation to the definition of dealership in Wis.Stats. § 135.02(2). Although that case involved a manufacturing representative rather than a distributor/wholesaler arrangement, the court’s review of the intent of the legislature is relevant here. Finding no legislative intent to cover manufacturing representatives, the court emphasized the fact that Foerster, Inc. represented four other companies.
+“Atlas’ termination of Foerster, Inc. as its representative will not result in the decimation of Foerster, Inc., as the corporation still represents four companies. This contrasts considerably with the type of ‘dealership’ intended to be protected in which the entire business is built around and relies on the sale, servicing or representation of one grantor’s products, such as gasoline service stations and fast food franchises and it was businesses of this type which the Wisconsin Fair Dealership Law was meant to protect.” Id. at page 27, 313 N.W.2d 60.
+Lakeshore has not stated how many other product lines it distributes, nor has it stated what percentage of its sales volume is represented by the HSS wines it procured through Kosmicki. It is apparent, however, that Lakeshore will not be “decimated” by the loss of the HSS dealership. This factor, along with the lack of any direct course of dealing between the parties, demonstrates that Lakeshore has failed to show a reasonable likelihood of success on the merits.
+In addition, Lakeshore has failed to demonstrate that it will be irreparably harmed if the injunction does not issue. The dealership agreement, if established, lasted no more than eight months. There is no allegation that Lakeshore is unable to procure another line of German wines or that HSS wines are so superior to others that its customers will accept no substitute. The Court is mindful of the provisions of Wis. Stats. § 135.065, but cannot find that a suit for damages to recover any investment in promoting HSS wines for eight months would be inadequate.
+THEREFORE, IT IS ORDERED that plaintiffs motion for a preliminary injunction is denied.
