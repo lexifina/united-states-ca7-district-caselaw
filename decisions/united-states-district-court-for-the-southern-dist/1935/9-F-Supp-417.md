@@ -1,0 +1,27 @@
+---
+court: "United States District Court for the Southern District of Illinois"
+docket: "2723"
+decided: "1935-01-19"
+citations: ["9 F. Supp. 417"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SINGLETON et al. v. ORDER OF RAILWAY CONDUCTORS OF AMERICA et al."]
+source_url: "https://static.case.law/f-supp/9/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4140034
+cites_cases: ["7 F.(2d) 481"]
+---
+
+# Singleton v. Order of Railway Conductors of America
+
+## Majority (BRIGGLE, District Judge.)
+
+BRIGGLE, District Judge.
+This is an action to recover damages against the defendants, Order of Railway Conductors of America and the Grand Division of the Order of Railway Conductors of America, because of alleged violations of the constitution and statutes by the officers of defendants, and because of certain fraudulent actions alleged on behalf of one Gannon, all of the matters growing out of a strike instituted in 1929 on the Toledo, Peoria & Western Railroad. Plaintiffs were all members of the Order of Railway Conductors of America, and, prior to the strike in question, were employed as conductors by said Toledo, Peoria & Western Railroad. They were likewise members of the local division or lodge known as Peoria Division No. 79. Plaintiffs claim generally that they have lost employment by said railroad and their seniority rights as conductors on said railroad by reason of certain acts of defendants, which are alleged to be wrongful. Defendants have appeared specially and moved to quash service of process.
+The question of the suability of the defendants as voluntary, unincorporated associations is not raised at this .time, the sole question being whether the defendants are before the court by. proper service of process. The summons was served upon D. R. McAvoy, who was the local secretary and treasurer of Peoria Division No. 79, and the motion to quash raises the question as to whether or not service upon McAvoy, as local secretary and treasurer of the local division, is sufficient to bring the defendants before the court.
+From the constitution and statutes of the labor union, which were effective on August 1, 1934, and in effect at the time of the service of the summons upon McAvoy, it appears the local lodges or divisions are, in fact, separate units or entities, having their own form of government, electing their own officers, selecting their' own representatives to bargain and deal with the railroads upon the lines of railroad to which the members of the local divisions belong; that the individuals are members of both the local division and the international order. It further appears that the individual members pay dues to the international order, which correlates the activities of all the local units or divisions and in times of strike aids the local divisions on a particular line of railroad where the strike-is called, in the furnishing of officers experienced in this work, and also aids financially the individual members on strike. The local lodges or divisions elect delegates to the triennial convention, which is called the Grand Division, and the Grand Division of the international order, as assembled, has power to amend the constitution, enact statutes, and adopt, programs for the benefit of railroad conductors generally.
+The duties of the secretary and treasurer of the local divisions are provided for by the statutes of the order; these duties, among others, being to record the proceedings of the divisions, conduct correspondence, issue all notice cards, report all initiations, suspensions, withdrawals, expulsions, reinstatements, and deaths to the general secretary and treasurer of the international order, and annually to furnish the general secretary and-treasurer of the international order -a complete list of the names of the members of the division and the addresses, occupation, and name of the railroad upon which employed.
+The local secretary and treasurer is also charged with the keeping of the funds of the division, is required to- give bond for the faithful accounting of all funds, and is authorized to deposit the funds only where designated by the trustees of the local divisions. The statutes further provide for the payment of the dues to the international order through the local division secretary, and it is claimed that in this respect he is an agent of the international order. The court is of the opinion, however, that in this respect the secretary and treasurer of the local division acts as much for the members of the local division as for the international order. Under no circumstances, however, can anything be found in the duties or powers of the local secretary and treasurer, as set out in the statutes of the order, which would make him a representative óf the .supreme body for service of process.
+In view of the holding of the court that McAvoy was not an agent upon whom service of process could be had in this case, the question of whether or not there are two separate entities, that is, the Order of Railway Conductors of America and the Grand Division of the Order of Railway Conductors of America, becomes unimportant on this motion because the service was had upon McAvoy as to each of the defendants. The case of Christian v. International Association of Machinists (D. C.) 7 F.(2d) 481, sustains the views of the court here announced.
+The motion to quash will be allowed.
