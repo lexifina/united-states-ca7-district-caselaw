@@ -1,0 +1,47 @@
+---
+court: "United States District Court for the Eastern District of Wisconsin"
+docket: "70-C-673"
+decided: "1971-02-26"
+citations: ["323 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David A. KONN, Plaintiff, v. Hon. Melvin R. LAIRD, Secretary of Defense, Hon. Stanley R. Resor, Secretary of the Army, Commanding General, United States Army Reception Station, Ft. Leonard Wood, Missouri, Commanding General, Fifth United States Army, Ft. Sheridan, Illinois, Commanding General, 84th Division (TNG), 5130 West Silver Spring Drive, Milwaukee, Wisconsin, Defendants."]
+source_url: "https://static.case.law/f-supp/323/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3221156
+cites_cases: ["27 L.Ed.2d 244", "314 F.Supp. 965", "400 U.S. 941", "406 F.2d 141", "411 F.2d 1102", "412 F.2d 774", "419 F.2d 1034", "426 F.2d 908", "437 F.2d 1020", "437 F.2d 912", "91 S.Ct. 234"]
+---
+
+# Konn v. Laird
+
+## Majority (MYRON L. GORDON, District Judge.)
+
+DECISION and ORDER
+MYRON L. GORDON, District Judge.
+The complaint in this ease seeks to bar the defendants from requiring the plaintiff to respond to active duty orders which had been issued to him. The plaintiff asks for a writ of habeas corpus, requiring the defendants to release him from the army’s custody and also for a writ of mandamus which would compel the defendants to cancel the plaintiff’s involuntary active duty orders. The court denied the preliminary injunctive relief sought by the plaintiff.
+After presenting testimony for two days in connection with the plaintiff’s application for a preliminary injunction, the parties stipulated that no further factual hearing was required and that the court could resolve the merits of the case upon the record previously made; in addition, briefs from each of the parties have been received.
+The plaintiff has been a member of the army reserve since June 6, 1966 and has been assigned to a company of the 4th Brigade, 84th Division. On December 10, 1969, Mr. Konn was given a formal notice that he was being called up for involuntary active duty because of his having incurred five or more unexcused absences in a one-year period. The notice was embodied in a letter of December 10, 1969, which is exhibit 8 in the appeal record. It contains the following concluding sentence:
+“If you apply for a delay or discharge, you are nevertheless expected to attend all unit training assemblies until such time as your [sic] informed of the final determination, unless specifically excused by your unit commander or committee chief.”
+Mr. Konn urges that this instruction was insufficient to require his attendance at unit training assemblies in view of paragraph 12 of AR 135-91, which directs the unit commander to notify the reservist:
+“* * * that he will be required to enter active duty about 30 days after receipt of orders and that unless notified otherwise, he is not required or authorized to attend unit assemblies while awaiting his entry on active duty, and will be granted excused absence during the period involved.”
+Even though the December 10, 1969 direction to Mr. Konn is not as specific as AR 135-91 contemplates, it is my opinion that it sufficiently advised Mr. Konn of his responsibility to attend unit assemblies. Any doubt as to the meaning of the direction contained in the letter of December 10 has been completely resolved by the conduct of the parties themselves. When Mr. Konn was absent from a unit assembly on January 7, 1970, he was assessed an unexcused absence as a result; Mr. Konn did not then suggest that he had been excused from the obligation to attend unit assemblies, but, on the contrary, he submitted a medical excuse for his absence. This medical documentation was rejected.
+Plaintiff’s exhibit 4 is a letter from Mr. Konn to his commanding officer dated January 7, 1970. The second paragraph of such letter reads as follows:
+“As in the past, I intend to participate at all unit training assemblies until such time as I have been informed of the final determination.”
+The foregoing statement is a clear acknowledgment by Mr. Konn that he knew he was obliged to continue to attend all unit training assemblies after the December 10 notice. I thus conclude that the five absences charged against Mr. Konn between January 7, 1970 and February 22, 1970 were properly assessed so far as AR 135-91 is concerned.
+Four of the unauthorized absences were charged to Mr. Konn because his superior officers found that his physical appearance did not conform to the standards prescribed in AR 600-20. Three of such absences occurred before December 10, 1969, and the fourth occurred on February 18, 1970.
+Mr. Konn urges that a photograph appearing as appeal exhibit 1 accurately reflects his hair and sideburn appearance on the dates in question. That contention was directly contradicted by the defendants’ witnesses at the evidentiary hearing. Mr. Konn also relies on 16 affidavits contained in the appeal record which tend to support his contention that his hair and sideburns were no longer than other persons in the same unit.
+There was no abuse of the plaintiff’s rights in connection with the discretionary determinations of his superi- or officers regarding the plaintiff’s hair and sideburn appearance. There is applicable here the expression of the court in Anderson v. Laird, 437 F.2d 912, at page 915 (7th Cir., decided January 14, 1971):
+“Thus we can find no justification warranting our interference with the discretionary decision of the military to impose certain standards of appearance to govern its members. We note that other courts have recently reached a like conclusion in cases substantially similar to the instant one. Gianatasio v. Whyte, 426 F.2d 908 (2d Cir. 1970), cert. den. 400 U.S. 941, 91 S.Ct. 234, 27 L.Ed.2d 244 (1970), Byrne v. Resor, 412 F.2d 774, 775 (3d Cir. 1969), Raderman v. Kaine, supra, 2 Cir., 411 F.2d 1102 at 1105, and Smith v. Resor, 406 F.2d 141, 145 (2d Cir. 1969) and cases cited therein.
+“In addition to his First and Ninth Amendments argument, Anderson asserts that AR 135-91 and AR 600-20 are so vague and uncertain as to amount to a denial of due process of law. He finds particularly offensive the use of the standard ‘neat and soldierly’ and the delegation of the ultimate definition of the standard to individual unit commanders. Anderson asserts that such a standard lacks sufficient precision to inform those subject to it of what conduct on their part will violate it.
+“By this standard the military has sought to grant unit commanders discretion in dealing with the appearance of the men under their command. This, as we have already indicated, is the sort of discretion that is beyond the review of civil courts.”
+A similar approach was expressed by this court in Krill v. Bauer, 314 F.Supp. 965, 967 (E.D.Wis.1970), where I considered the army’s regulations regarding the length of hair of reservists and said:
+“The plaintiffs point to Breen v. Kahl, 419 F.2d 1034 (7th Cir. 1969), in which the court of appeals for the seventh circuit held unconstitutional a high school dress code prescribing students’ hair length. Breen does not control the case at bar because a high school student stands on a different constitutional footing from an army reservist.”
+Although the length of Mr. Konn’s hair and sideburns would probably be acceptable in many walks of life today, this court declines to substitute its judgment for those who are authorized to exercise their discretion. I have carefully considered the 16 affidavits, and they have not persuaded me that there has been an abuse of- discretion in this case.
+The plaintiff also claims that there was a violation of his rights in connection with the rejection of his medical certificates and also with the assessment of an unauthorized absence on February-22, 1970 because of Mr. Konn’s reading a newspaper during a training class. I find no error in connection with the defendants’ position in these matters.
+Finally, the plaintiff urges that it is unduly punitive to require a reservist to undergo lengthy active service for the minor misconduct charged against him in this ease. The plaintiff couches his argument in these words:
+“Congress did not intend that 10 U.S. C. 673a would be available for punitive activations such as that involved in the present case, particularly where minor breaches of military standards of appearance have been translated into ‘absences’ for purposes of defining satisfactory performance of reserve obligations. Such a result would, if intended, unconstitutionally deprive a reservist of his liberty in violation of the fifth amendment and impose cruel and unusual punishment in violation of the eighth amendment.”
+I believe that the response to this argument is suggested in the recent decision in Ansted v. Resor, 437 F.2d 1020 (7th Cir., decided January 29, 1971), where the court said at 1024:
+“ * * *- when Ansted agreed to and signed his enlistment contract, he consented to induction into active service should he fail to participate satisfactorily in the Army Reserves. Cf. Gianatasio v. Whyte, 426 F.2d 908, 911 (2d Cir. 1970).”
+In conclusion, I find that there is no merit to the plaintiff’s claims and that the complaint must be dismissed upon its merits.
+Now, therefore, it is ordered that the plaintiff’s complaint and his case be and hereby are dismissed upon their merits.
