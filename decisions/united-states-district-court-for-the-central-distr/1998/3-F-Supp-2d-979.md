@@ -1,0 +1,47 @@
+---
+court: "United States District Court for the Central District of Illinois"
+docket: "97-3309"
+decided: "1998-05-07"
+citations: ["3 F. Supp. 2d 979"]
+reporter: "f-supp-2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tonya Star JONES, and all others similarly situated, Plaintiff, v. James EDGAR and Benjamin K. Miller, Defendants."]
+source_url: "https://static.case.law/f-supp-2d/3/cases/0979-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11692921
+cites_cases: ["30 L.Ed.2d 819", "404 U.S. 519", "405 U.S. 948", "418 U.S. 24", "42 U.S.C. § 1988", "446 U.S. 55", "468 F.2d 389", "478 U.S. 30", "605 F.Supp. 802", "644 F.2d 1204", "791 F.2d 1255", "85 F.3d 919", "895 F.2d 413", "918 F.2d 1323", "92 S.Ct. 963"]
+---
+
+# Jones v. Edgar
+
+## Majority (RICHARD MILLS, District Judge.)
+
+OPINION
+RICHARD MILLS, District Judge.
+Tonya Stax Jones, a state prisoner, has brought this civil rights action pursuant to 42 U.S.C. § 1988.
+He claims that James Edgar, as Governor of the State of Illinois, has violated the constitutional rights of the plaintiff and others by denying incarcerated felons the right to vote; he further charges that Benjamin K; Miller, as Chief Justice of the Illinois Supreme Court, has failed to redraw judicial district lines to give minorities greater voting power.
+The Governor and Chief Justice have filed a motion to dismiss the complaint for failure to state a claim.
+LEGAL STANDARDS
+It is well established that pro se complaints are to be liberally construed. Haines v. Kerner, 404 U.S. 519, 92 S.Ct. 594, 30 L.Ed.2d 652 (1972), reh’g denied, 405 U.S. 948, 92 S.Ct. 963, 30 L.Ed.2d 819 (1972). See also Tarkowski v. Robert Bartlett Realty Company, 644 F.2d 1204 (7th Cir.1980). And they can be dismissed for failure to state a claim only if it appears “beyond doubt that the plaintiff can prove no set of facts in support of his claim which would entitle him to relief.” Haines, 404 U.S. at 521, 92 S.Ct. 594; Gregory v. Nunn, 895 F.2d 413, 414 (7th Cir.1990).
+When considering whether to dismiss a complaint for failure to state a claim upon which relief can be granted, the court takes the allegations in the complaint as true, viewing all facts — as well as any inferences reasonably drawn therefrom — in the light most favorable to the plaintiff. Bethlehem Steel Corp. v. Bush, 918 F.2d 1323, 1326 (7th Cir.1990). And dismissal should be denied whenever it appears that a basis for federal jurisdiction in fact exists or may exist and can be stated by the plaintiff. Tarkowski 644 F.2d at 1207, quoting Littleton v. Berbling, 468 F.2d 389 (7th Cir.1972).
+ANALYSIS
+Having considered the parties, briefs, the court finds that the complaint fails to state a claim as a matter of law.
+In Count I, the plaintiff claims that the state constitution (Article III, Section 2), which bars incarcerated felons from voting, violates the Fifteenth Amendment because the law has a disproportionate impact on minorities. In Count II, the plaintiff further contends that the justices of the Illinois Supreme Court have failed to redraw judicial districting lines “to reflect Black and Latino population explosions outside of Cook County, in violation of the Voting Rights Act, for the sole purpose of diluting the Black and Hispanic vote....”
+The court finds that Count I is non-meritorious and that the plaintiff therefore has no standing to bring Count II.
+I. DISENFRANCHISEMENT
+The disenfranchisement of felons is authorized by both the United States and Illinois constitutions. Section 2 of the Fourteenth Amendment to the U.S. Constitution empowers states to disenfranchise persons convicted of “participation in rebellion, or other crimes.” The Illinois Constitution dictates: “A person convicted of a felony, or otherwise under sentence in a correctional institution or jail, shall lose the right to vote.... ” Ill. Const. Article III, § 2. In Richardson v. Ramirez, 418 U.S. 24, 53-56, 94 S.Ct. 2655, 41 L.Ed.2d 551 (1974), the Supreme Court, basing its decision on “settled historical and judicial understanding,” held that the disenfranchisement of felons does not offend the Fourteenth Amendment. This court finds no decision from any court holding that the disenfranchisement of felons is invalid. The plaintiff nevertheless maintains that the law violates the Fifteenth Amendment to the U.S. Constitution, which precludes the State from denying or abridging the right to vote “based on race, color, or previous condition of servitude.” The court disagrees.
+The Supreme Court has repeatedly held that facially neutral state action is valid unless motivated by a discriminatory purpose. See e.g., City of Mobile v. Bolden, 446 U.S. 55, 62, 100 S.Ct. 1490, 64 L.Ed.2d 47 (1980) (ruling that a city’s afflarge electoral system did not violate the Fifteenth Amendment rights of black voters). Largely in response to Bolden, Congress adopted a “results” standard so that minorities would not have to prove discriminatory intent, but show discriminatory effect alone. Thornburg v. Gingles, 478 U.S. 30, 35, 106 S.Ct. 2752, 92 L.Ed.2d 25 (1986). Under the “results” test, challengers must show that the contested electoral practice or structure results in members of a protected group having less opportunity than other members of the electorate to participate in the political process and elect representatives of their choice.
+Here, the plaintiff cannot make a connection between the historical discrimination against blacks and the disenfranchisement of voters. State constitutions as far back as 1776 have denied felons the right to vote, without regard to race. See Wesley v. Collins, 605 F.Supp. 802 (M.D.Tenn.1985), aff'd, 791 F.2d 1255 (6th Cir.1986). The district judge in Wesley noted:
+[I]t can scarcely be deemed unreasonable for a state to decide that perpetrators of serious crimes shall not take part in electing the legislators who make the laws, the executives who enforce these, the prosecutors who must try them for further violations, or the judges who are to consider their cases. This is especially so when account is taken of the heavy incidence or recidivism and the prevalence of organized crime....
+Felons are not disenfranchised based on any immutable characteristic, such as race, but on their conscious decision to commit an act for which they assume the risks of detection and punishment. The law presumes that all men know its sanctions. Accordingly, the performance of a felonious act carries with it the perpetrator’s decision to risk disenfranchisement in pursuit of the fruits of the misdeed.
+Wesley, 605 F.Supp. at 813. The court went on to find that any incidental dilution of the black vote resulting from incarceration did not bear the taint of historically rooted racial discrimination. Id.; see also Baker v. Pataki, 85 F.3d 919 (2nd Cir.1996). The mere fact that many incarcerated felons happen to be black and latino is insufficient grounds to implicate the Fifteenth Amendment or the Voting Rights Act.
+II. JUDICIAL REDISTRICTING
+Since the plaintiff is a disenfranchised voter, he has no standing to challenge judicial redistricting insofar as it affects minority voters. The defendants also correctly point out that the legislature, rather than the named defendant, is responsible for drawing district lines. Even if the plaintiff had standing to sue, he could not obtain the relief sought from Chief Justice Miller, as the Supreme Court has no authority to set districts.
+Because the court finds that the plaintiff has no cause of action against either defendant, the court need not reach the parties’ dispute over the defendants’ entitlement to qualified immunity.
+III. INJUNCTION
+Turning to the plaintiffs motion for “emergency injunctive relief,” the motion must be denied. The plaintiff seeks an injunction barring officials at the Menard Correctional Center from “banging on the bars” (apparently to test the integrity of the cell bars), a matter wholly unrelated to the case before the court. The court has no personal jurisdiction over Menard correctional officials. The defendants in this lawsuiff-which concerns voting rights — are the Governor of the State of Illinois and a Justice of the Supreme Court of Illinois. If the plaintiff wishes to file suit challenging prison practices, he must (after exhausting available administrative remedies in accordance with 42 U.S.C. § 1997e(a)) file a separate lawsuit in the appropriate forum (that is, the U.S. District Court for the Southern District of Illinois, or the Illinois Circuit Court). This court will not consider the plaintiffs complaint about prison conditions in the context of a lawsuit pertaining entirely to other matters.
+CONCLUSION
+IT IS THEREFORE ORDERED that the defendants’ motion to dismiss is ALLOWED. Count I (relating to the disenfranchisement of felons) is dismissed without prejudice pursuant to Fed.R.Civ.P. 12(b)(6) for failure to state a claim. Count II (relating to the drawing of judicial voting districts) is dismissed pursuant to Fed.R.Civ.P. 12(b)(1) for lack of standing. This dismissal counts as another “strike” against the plaintiff for purposes of the Prison Litigation Reform Act.
+IT IS FURTHER ORDERED that the plaintiffs motion for leave to file a reply brief is ALLOWED and the motion for emergency injunctive relief is DENIED.
+The case is terminated. The parties are to bear their own costs.
