@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the Eastern District of Illinois"
+docket: "6855"
+decided: "1935-01-25"
+citations: ["9 F. Supp. 891"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re HOUSER."]
+source_url: "https://static.case.law/f-supp/9/cases/0891-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4139470
+cites_cases: ["19 F.(2d) 965"]
+---
+
+# In re Houser
+
+## Majority (WHAM, District Judge.)
+
+WHAM, District Judge.
+This matter comes before the court upon a reclamation petition filed by John Deere Plow Company, a corporation, to recover from the debtor immediate possession of certain farm implements sold to the debtor by the petitioner under a conditional sales contract by the terms of which the petitioner retained title.
+The debtor filed in this court on August 30, 1934, his petition under section 75 of the Bankruptcy Act as amended (11 USCA § 203), setting forth the jurisdictional facts and seeking the benefits of said section 75 under its provisions extending to a farmer the opportunity to effect a composition or extension of time to pay his debts. The petition was approved, ordered filed by the court, and in due course referred to the proper conciliation commissioner. The matter is now pending before the said conciliation commissioner, who has not concluded the proceedings before him and has not submitted his report to the court.
+The petitioner contends that under the law of Illinois relating to conditional sales contracts it should be permitted immediately to take possession of said chattels without awaiting the report of the conciliation commissioner to the court which subsection (o) of section 75 (11 USCA § 203 (o) makes a prerequisite, to the presentation to the court of the petition therein provided for leave to institute or carry forward the proceedings which are by said subsection stayed. The debtor contends that the reclamation petition has been filed and the recovery of said goods is being sought prematurely, in view of the provisions of subsections (n) and (o) of said section 75 (11 USCA § 203 (n, o) and the fact that the conciliation commissioner has not yet made his report to the court on the proceedings before him.
+It would seem that the debtor is correct in his contention. Regardless of the petitioner’s legal rights with reference to said chattels under its contract with the debtor as indicated by the decisions of the courts of Illinois and the federal courts, its seizure or reclamation by judicial proceedings of the said chattels seems clearly to be within the stay provisions of subsection' (o) of said section 75. Said subsection by specific terms applies to conditional sale agreements and operates to stay seizures and other proceedings thereunder pending the report of the conciliation commissioner to the court.
+The debtor was in possession of the chattels in question at the time he filed his petition, and, while the chattels were theretofore subject to being reclaimed by the petitioner herein, the filing of the petition by the provisions of subsection (n) of said section 75 brought the chattels within the exclusive jurisdiction of the court, and by the provisions of subsection (o) subjected them to the stay therein provided until such time as the farmer, under the guidance of the conciliation commissioner, has been given his reasonable opportunity under the provisions of said section 75 to endeavor to obtain a composition or extension of time to pay his debts and the conciliation commissioner has made his report to the court.
+It would seem that property possessed by a debtor under conditional sales agreements are included within the provisions of said subsection (o) with ample reason. The value of the chattels as compared with the amount against them might well be such that the farmer would want to make arrangements to pay off the vendor in full, even as a trustee in bankruptcy has the right to do if advantageous to a bankrupt estate. John Deere Plow Co. v. Hamilton (In re Abell), 19 F.(2d) 965 (C. C. A. 7). It is always open to possibility that the vendor under such a contract would be willing to accept a reduction in the amount due on the chattels in order to get cash and be relieved of the transaction. In many cases the vendor might even be willing to agree to an extension of the time within which the debtor will be required to pay the consideration rather than take the goods back. All of these reasonable possibilities, as well as others that would occur to one dealing with the problem, make clear the reasoning of the lawmakers in putting conditional sales agreements and proceedings thereunder within the terms of subsection (o).
+I have no doubt that Congress, under its bankruptcy powers,- had the constitutional right to provide the opportunity which is given by said section 75 to farmers to negotiate a composition of or extension of the time within which to pay their debts as well as the constitutional right to provide for the stay of proceedings against the debtors by creditors, secured and unsecured, and by vendors under conditional sales contracts pending the reasonable time necessary for the farmer to attempt to exercise said opportunity and the report of the conciliation commissioner thereon.
+It would seem that, in view of the provisions of said subsection (o), the reclamation petition was prematurely presented to this court, and that the recovery of the articles by virtue of the provisions of the conditional sales contract under which they were sold has been prematurely sought. The petition therefore will be, and is hereby, denied.
