@@ -1,0 +1,43 @@
+---
+court: "United States District Court for the Southern District of Illinois"
+docket: "8023"
+decided: "1935-01-15"
+citations: ["9 F. Supp. 463"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re HANLEY."]
+source_url: "https://static.case.law/f-supp/9/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4142754
+cites_cases: ["297 F. 676", "6 F.(2d) 457"]
+cites_law: ["united-states/federal/usc/title-11/103.md"]
+---
+
+# In re Hanley
+
+## Majority (BRIGGLE, District Judge.)
+
+BRIGGLE, District Judge.
+On February 21, 1934, the Prudential Insurance Company of America, a corporation (hereinafter called the Prudential), filed its bill of complaint in this court against Frank J. Hanley and others, praying for the foreclosure of a certain real estate mortgage, given by Frank J. Hanley and Mary E. Hanley, his wife, to the said company to secure the payment of a certain promissory note in the sum of $16,-000, bearing date the 17th day of August, 1926. One Edward V. Hanley was made a party defendant to that proceeding by reason of his being in possession of the mortgaged premises, and was duly served with process therein on the 27th day of February, 1934.
+Afterwards, and on the 10th day of May, 1934, a decree pro confesso was entered in that proceeding against the said Frank J. Hanley and others, including the defendant Edward V. Hanley.
+Thereafter, on the 10th day of September, 1934, the said Edward V. PTanley filed his petition in this court, setting forth that he is a farmer and is insolvent or unable to meet his debts as they mature, and averring his desire to effect a composition or extension of time to pay his debts under the provisions of section 75 of the Bankruptcy Act, as amended (11 USCA § 203). In his schedules, attached to his petition, he lists the Prudential as á secured creditor to the amount of $17,804 and lists the mortgaged property hereinbefore referred to among his assets.
+On the same date an order was entered by this court, approving the petition as properly filed and the same was referred to Carter Pietsch, the conciliation commissioner of this court in and for the county of McLean, in the state of Illinois.
+No further steps were taken in the foreclosure proceeding, until on the 8th day of November, A. D. 1934, when the Prudential filed its petition herein, asking leave of this court to proceed with its foreclosure suit.
+On the 13th day of December, 1934, the conciliation commissioner filed in this court his report of the proceedings had before him in the matter of Edward V. Hanley, in which the conciliation commissioner reports that all prospects of conciliation have been exhausted and that the debtor’s proposal for a composition and extension of time in which to pay his debts has been rejected. No further steps have been taken by the debtor in that behalf.
+The undisputed facts now before the court disclose that the mortgaged premises, referred to, were conveyed by the original mortgagors subsequent to the making of the said mortgage, to one Thomas J. Hanley, and that the said Thomas J. Hanley and Kathryn M. Hanley, his wife, by 'their warranty deed, bearing date October 30, 1931, conveyed the same property to the said Edward V. Hanley. While this conveyance to Edward V. Hanley bears date October 30, 1931, the documentary revenue stamp thereon bears a cancellation date of August 25, 1934, and the deed was filed for record in the recorder’s office of McLean county, Ill., on August 25, 1934. (Either date is subsequent to the date of execution of the mortgage.) The grantee, Edward V. Hanley, did not, in this deed, or otherwise, obligate himself to pay the mortgage indebtedness to the Prudential.
+Subdivision (o) of section 75, 11 USCA § 203 (o), provides that except upon petition made to and granted by the judge after hearing and report by the conciliation commissioner, proceedings for foreclosure of a mortgage against the farmer or his property shall not be maintained. The report of the conciliation commissioner now having been made to this court; the Prudential renews its application’ for leave to proceed with the foreclosure of its said mortgage.
+The questions are: (1) í)oés a debtor-creditor relationship exist between the mortgagee and the petitioner, Edward V. Hanley? (2) If such relationship does not exist, should the mortgagee be permitted to go forward with the prosecution of its foreclosure suit?
+From a reading, of section 75 of the Bankruptcy Act, as amended (11 USCA § 203), it seems apparent that the relation of debtor ’ and creditor is presupposed by the Congress in the enactment of the law. Subdivisions (b), (e), (f), and others expressly use the term “creditors,” and subdivisions (c), (j), and others expressly use the term “debts.”
+The term “creditor” is not defined specially under section 75 of the Bankruptcy Act, as amended; but resorting to section 1 (9), 11 USCA § 1 (9), we find a creditor is a person who holds a “claim provable in bankruptcy.” A provable claim is defined in section 63a, subds. 1 to 7, inclusive, as amended, 11 USCA § 103 (a) (1-7), in various ways, none of which encompass or are analogous to the state of facts involved in the instant case.
+“A suit which is founded upon a claim from which a discharge would be a release, and which is pending against a person at the time of the filing of a petition against him, shall be stayed until after an adjudication or the dismissal of the petition,” etc. Section 11, Bankruptcy Act, 11 USCA § 29.
+The act further provides that a discharge shall release a bankrupt from all his provable debts, with a few exceptions not applicable here. Section 17, Bankruptcy Act, 11 USCA § 35.
+Conversely, the court will not ordinarily stay a proceeding which does not involve a provable claim and which would not be affected by a discharge in bankruptcy, even though the alleged claimant be listed as a creditor in the schedules of the petitioning debtor.
+The foreclosure proceeding was commenced for the purpose of enforcing the obligation of other persons who are the real debtors and Edward V. Hanley was joined as a party defendant for the reason that he held possession of the property. Hanley’s present possessory rights are bottomed upon his tenancy under the receiver heretofore appointed in the foreclosure proceeding.
+Where other interests are involved in a collateral suit, courts have declined to enjoin the prosecution of said suit except pro tanto, as the interest of the bankrupt is concerned. In re Kelley (D. C.) 297 F. 676.
+In Park v. Stryker (C. C. A.) 6 F.(2d) 457, an injunction was denied when there was no right to possession in the bankrupt as to the securities involved in the collateral suit.
+It may properly be pointed out that the petitioner under section 75 of the Bankruptcy Act, as amended, in the instant case did not execute the mortgage or note and did not assume or agree to pay the same; that the Prudential could not force any payment from him by any legal means; and that the foreclosure suit brought by the Prudential was commenced for the purpose of proceeding against other persons who. are obliged to pay the debt.
+The rights of Edward V. Hanley in the mortgaged premises came about by virtue of the conveyance of the mortgaged premises to him after the existence of the mortgage lien, and no relation of debtor and creditor exists between him and the holder of the mortgage lien. The persons obligated to -the mortgagee are the makers of the mortgage note, and for this court to hold that the foreclosure proceedings against them should be stayed pending an application under section 75 of the Bankruptcy Act, as amended, by one, who has at the most acquired an equity of redemption in the mortgaged premises, subsequent to and subject to the rights of the mortgagee, might produce monstrous results.
+The owner, solvent or insolvent, of mortgaged premises would be permitted to convey the same to one who could properly proceed under section 75, as amended, and perhaps restrain the enforcement of the mortgage lien for more than five years, during which time many rights of the mortgagee against other persons might be completely lost.
+It is apparent that the Prudential is in no sense a creditor of Edward V. Flanley and no sound reason appears to the court why it. should be further delayed in the prosecution of its foreclosure. Its petition for leave to proceed will be allowed.
+The constitutionality of no part of section 75, as amended, has been challenged in this proceeding and consequently has been given no consideration in this opinion.
