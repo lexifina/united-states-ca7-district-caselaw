@@ -1,0 +1,54 @@
+---
+court: "United States District Court for the Northern District of Illinois"
+docket: "81 C 5581"
+decided: "1983-12-16"
+citations: ["605 F. Supp. 6"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["REFRIGERATION SALES CO., INC., Plaintiff, v. MITCHELL-JACKSON, INC., et al., Defendants."]
+source_url: "https://static.case.law/f-supp/605/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3755514
+cites_cases: ["467 F.2d 290", "561 F.Supp. 656", "575 F.Supp. 971", "583 F.2d 1073", "723 F.2d 512", "81 C 5581", "81 C 6064", "99 F.R.D. 99"]
+---
+
+# Refrigeration Sales Co. v. Mitchell-Jackson, Inc.
+
+## Majority (SHADUR, District Judge.)
+
+MEMORANDUM OPINION AND ORDER
+SHADUR, District Judge.
+On November 18 this Court’s memorandum opinion and order (the “Opinion”) granted summary judgment under Fed.R. Civ.P. (“Rule”) 56 in favor of defendants and against Refrigeration Sales Co., Inc. (“Refrigeration”), consequently dismissing Refrigeration’s Complaint with prejudice. 575 F.Supp. 971. Refrigeration has now filed two motions to set aside that judgment:
+1. Its Motion for Reconsideration was filed November 28 and entered and continued December 5.
+2. Its Motion for New Hearing, filed December 8, 1983, is nearly identical to the Motion for Reconsideration, except that it includes two affidavits in support of Refrigeration’s estoppel defense to the Rule 56 motion.
+Both current motions are wholly without merit for the reasons stated in this memorandum opinion and order.
+Motion for Reconsideration
+Three of Refrigeration’s four grounds for “reconsideration” merely rehash its old arguments. Above the Belt, Inc. v. Mel Bohannan Roofing, Inc., 99 F.R.D. 99, 101 (E.D.Va.1983) explains the function of motions for reconsideration and concludes:
+The motion to reconsider would be appropriate where, for example, the Court has patently misunderstood a party, or has made a decision outside the adversarial issues presented to the Court by the parties or has made an error not of reasoning but of apprehension. A further basis for a motion to reconsider would be a controlling or significant change in the law or facts since the submission of the issue to the Court. Such problems rarely arise and the motion to reconsider should be equally rare.
+Refrigeration’s first three asserted grounds do not fall into any of those categories. Instead they contend this Court was in error on the issues it had considered fully and spoken to in detail in the Opinion. Those arguments should of course be directed to the Court of Appeals.
+Refrigeration’s fourth ground for reconsideration asserts this Court’s misunderstanding of Refrigeration’s estoppel argument. Apparently Refrigeration’s current position is that defendants are es-topped to assert the limitations period in their warehouse receipts because defendants procured a delay in the filing of this action. By contrast, this Court had understood Refrigeration’s position to be that defendants were estopped to assert the limitations provision because of actions occurring before the limitations time period began to run. That contention was rejected on the ground that acts giving rise to an estoppel must occur during the time period in which a plaintiff claims he relied on those acts to his detriment.
+Reexamination of Refrigeration’s summary judgment memorandum reconfirms this Court was wholly justified in its understanding of Refrigeration’s argument, as originally posed on the summary judgment motion. Refrigeration’s Mem. 10-11 specifically identified the following alleged facts in support of its contention the six elements of estoppel under Illinois law were satisfied:
+1. The defendants repeatedly misrepresented their inventory of Refrigeration’s goods and the amounts of storage charges to which M-J was entitled;
+2. The defendants knew since 1977 that their inventory records were incorrect and that their monthly invoices misstated the actual inventory of Refrigeration’s goods beyond any minor fluctuations normally caused by the lag-time introduced by paperwork;
+3. Refrigeration was not aware that M-J was misstating its actual inventory of Refrigeration’s goods;
+4. The defendants fully expected Refrigeration to pay the storage charges assessed by M-J;
+5. In reliance on the amounts stated in M-J’s monthly storage bills, Refrigeration paid all such amounts to M-J. Additionally, Refrigeration marketed its products and promised shipments to its Chicago-area customers in reliance on the misstated figures in M-J’s inventory reports;
+6. Thus, Refrigeration paid storage charges on merchandise that was not actually in storage at the M-J warehouse, and Refrigeration lost customers in the Chicago area when M-J was unable to ship Refrigeration’s goods to such customers, because the quantities stated in M-J’s inventory reports were not actually in stock.
+Thus Refrigeration is not really clarifying its original position. It is rather asserting a new position as a purported basis for “reconsideration.” That kind of afterthought, or shifting of ground, is also not one of the circumstances in which a motion for reconsideration is appropriate. As the next section demonstrates, with the most limited of exceptions (none of which applies here) a party gets one chance to try its case—and for that purpose summary judgment is the equivalent of trial.
+Motion for New Hearing
+Refrigeration’s motion for new hearing suffers from two defects. Either would be fatal. Together they are compellingly so.
+First, Refrigeration’s newly-tendered submission of two affidavits in support of its position that defendants procured the late filing of its action constitutes an impermissible piecemeal presentation of evidence. In resisting defendants’ summary judgment motion, Refrigeration presented no evidence and relied on the evidence submitted by defendants. Summary judgment motions are intended to take the place of trials, and Refrigeration’s total failure to produce evidence in its own defense is no different from the failure to produce evidence at trial. What this Court wrote in Keene Corp. v. International Fidelity Insurance Co., 561 F.Supp. 656, 665-66 (N.D.Ill.1983) (footnote omitted) might well have been written for this case:
+Such motions [for reconsideration or, as in this case, for new hearing] cannot in any case be employed as a vehicle to introduce new evidence that could have been adduced during pendency of the summary judgment motion. See Walker v. Hoffman, 583 F.2d 1073, 1075 (9th Cir.1978), quoting Donnelly v. Guion, 467 F.2d 290, 293 (2d Cir.1972):
+The non-movant has an affirmative duty to come forward to meet a properly supported motion for summary judgment:
+A party opposing a motion for summary judgment simply cannot make a secret of his evidence until the trial, for in doing so he risks the possibility that there will be no trial. A summary judgment motion is intended to “smoke out” the facts so that the judge can decide if anything remains to be tried.
+Accord, W.A. Krueger Co. v. Northern Trust Co., No. 81 C 6064, slip op. at 7 n. 7 (N.D.Ill. Jan. 7, 1983) (“a litigant cannot ‘hold back’ evidence on a summary judgment motion”).
+Just this month our Court of Appeals dealt with the related issue of a failure to present evidentiary matters during trial in Canada Dry Corp. v. Nehi Beverage Co., Inc., 723 F.2d 512 (7th Cir.1983). It held such failures to act constitute a trial strategy to which the delinquent party is bound. In discussing whether computational errors in damage summary charts constituted reversible error, the court stated (At 523):
+Accordingly, if Canada Dry, once it learned of the damages charts, had asked for a recess to check the underlying calculations, a refusal by the trial court to allow Canada Dry sufficient time would presumably have been an abuse of discretion. This, however, did not occur. Canada Dry never sought the opportunity during the trial to check the data, although it did ask for and receive at least the worksheets used by the chart’s preparer. Canada Dry chose instead to challenge the charts on other grounds during the trial. Canada Dry selected its own trial strategy and failed to seek an adequate recess to analyze the summary fully. It was this choice which “deprived” it of the opportunity to discover before the end of the trial that the summary charts on damages were seriously flawed.
+This case really follows a fortiori from Canada Dry. There is no excuse at all for Refrigeration’s failure to act when it was necessary to do so. Both sides knew the core issue in the case was whether or not defendants could rely on the limitations provision in the warehouse receipts. All Refrigeration’s arguments dealt with reasons the receipts should not be enforced as written. One of those claimed reasons was estoppel. And Refrigeration advances no contention the affidavits contain newly-discovered evidence (indeed, the identity of the affiants and the contents of the affidavits belie that possibility).
+Second, the tendered affidavits do not,satisfy Rule 56 testimonial standards. Both Leonard Kestenbaum and Leo Feldman say in general terms that Alfred L. Jackson made statements of a general character “on several occasions” and described what occurred “on such occasions.” Neither affidavit satisfies the Rule 56(e) requirement of trial-type testimony, implicit in the language that affidavits “shall be made on personal knowledge [and] set forth such facts as would be admissible in evidence....” That defect might perhaps be cured by redrafting, but that contingency need not be dealt with, for the first flaw discussed earlier in this section is incurable.
+Conclusion
+On any issue in a summary judgment motion, as on any issue at trial, each party is entitled to one bite at the apple. Refrigeration has had that bite on the issue whether defendants are estopped to raise the limitations provision. In filing its motions for reconsideration and for new hearing Refrigeration impermissibly seeks to retry its case. Both those motions are denied.
+. All relevant dates are in 1983.
+. That would be the case even had Refrigeration really identified and presented that version of its estoppel argument the first time around— that is, were this Court to have reached a different result on the issue discussed in the preceding section. Indeed, there would be even less excuse for Refrigeration’s posing the issue and failing to offer the allegedly relevant evidence when the original summary judgment motion was presented for decision.
+. Defendants’ December submission in opposition to Refrigeration’s motion casts further doubt on the affidavits. In light of the disposition in this opinion, no discussion of those issues is necessary.
